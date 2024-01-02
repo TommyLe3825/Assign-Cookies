@@ -1,5 +1,5 @@
 # Assign-Cookies
-//https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01
+https://leetcode.com/problems/assign-cookies/description/?envType=daily-question&envId=2024-01-01
 
 Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie.
 
